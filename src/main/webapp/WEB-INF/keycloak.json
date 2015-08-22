@@ -1,0 +1,10 @@
+{
+  "realm": "allensandiego",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8g2TQ1HLuPryt0uygtRLQP29OQSTYcgLbrpCOhxvumghB+meTeI6eXdY3RT29oPI5C39oETo74eaoyG2eIKAfy/hcuQotEFwPus03iKAlXQFf5h7Sf8UUdCcCWNXakSpyCpkFqFlNcDJBdvUdgtogY4vznauCGexnP4lAuIlgdL7aYse1xUtWhNMVFjRr/fCnkabsJo+E6NqnjYmbnsuBrgeWB6chRP8CfnAK2Q4MeARIiSUZbXL8MX9etB4d15nc2llUl/PzDIJ7sD3U70+1LIU8bzanYErCxz7f07hx96kHHPLtH58r+d9YrjJtjMFsd9AO4r1YesdlnAshxPccwIDAQAB",
+  "auth-server-url": "https://keycloak-aldsdev.rhcloud.com/auth",
+  "ssl-required": "none",
+  "resource": "demo",
+  "credentials": {
+    "secret": "e140dbb8-22ba-4ba7-9b54-73e688e937da"
+  }
+}
